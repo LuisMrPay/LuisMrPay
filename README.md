@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LuisHenrique
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning APEX Development
-- 💞️ I’m looking to collaborate on My teammates
 - 📫 How to reach me: luis.henrique@mrpay.com.br
 
 <!---
